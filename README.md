@@ -1,1 +1,1 @@
-# picture-hosting-service
+# image-hosting-service
