@@ -1,2 +1,4 @@
 # image-hosting-service
-此 repo 为个人图床。
+
+This is a private reporitory to save images.
+Please do not star or fork.
